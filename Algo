@@ -1,4 +1,16 @@
 Step 1: choose pizza company
+    a:Pizza Hut
+    b:Dominos
+    c:Papa Johns
+    d:Little Caesers
 Step 2: choose pizza size
+    a:personal
+    b:small
+    c:medium
+    d:large
 Step 3: choose pizza Crust
+    a:Thin
+    b:standard
+    c:thick
+    d:stuffed
 Step 4: choose pizza sause
